@@ -11,7 +11,7 @@ let min = (num1 › num2) ? num : numz;
 while (true) l
 if (min % num1 == 0 && min % num2 == 0) {
 console. log(*The LCM of $(num} and $(num2} is $(min)*);
- break;
+     break;
 }
 min++;
 }
